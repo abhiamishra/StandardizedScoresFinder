@@ -1,4 +1,4 @@
-devtools::install_github("JaseZiv/worldfootballR", ref="main")
+devtools::install_github("JaseZiv/worldfootballR")
 library(worldfootballR)
 library(tidyverse)
 library(reactable)
